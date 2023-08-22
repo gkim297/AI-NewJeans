@@ -2,4 +2,4 @@
 
 AI NewJeans creates both lyrics & mp3 audio based on the textual corpus of kpop lyrics published since 2017, then direct voice emulations of New Jeans' vocals through RNN & LSTM modelling. 
 
-https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99c08eac-1777-4459-81b0-341be2da5190/dflo1i4-1879aaca-7fa8-45a3-a3e8-51a9992eb3a3.jpg/v1/fill/w_894,h_894,q_70,strp/newjeans_ditto_album_cover__1_by_lealbum_dflo1i4-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzQ2NCIsInBhdGgiOiJcL2ZcLzk5YzA4ZWFjLTE3NzctNDQ1OS04MWIwLTM0MWJlMmRhNTE5MFwvZGZsbzFpNC0xODc5YWFjYS03ZmE4LTQ1YTMtYTNlOC01MWE5OTkyZWIzYTMuanBnIiwid2lkdGgiOiI8PTM0NjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NonpD1954wv2bOaUw66XIG48FhEltX1s5dkgCEgjaKA
+![newjeans_ditto_album_cover__1_by_lealbum_dflo1i4-pre](https://github.com/gkim297/AI-NewJeans/assets/70546406/320c9911-9c76-425a-8e34-76c89b9f4db5)
