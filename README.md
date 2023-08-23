@@ -13,10 +13,9 @@ Based on 100+ textual corpus of kpop albums published since 2017, AI NewJeans' M
 - Creative Fusion: This process showcases an innovative blend of AI and human-like creativity, pushing the boundaries of kpop music production.
 - Usage: The generated audio files can be used for demos, experimentation, or creative inspiration in music production.
 
-
-```shell-session
-foo@bar:~$ whoami
-foo
+_To start program type the following command in terminal:
+_```shell-session
+foo@bar:~$ npm start
 ```
 
 
