@@ -14,6 +14,11 @@ Based on 100+ textual corpus of kpop albums published since 2017, AI NewJeans' M
 - Usage: The generated audio files can be used for demos, experimentation, or creative inspiration in music production.
 
 
+```shell-session
+foo@bar:~$ whoami
+foo
+```
+
 
 ![newjeans_ditto_album_cover__1_by_lealbum_dflo1i4-pre](https://github.com/gkim297/AI-NewJeans/assets/70546406/320c9911-9c76-425a-8e34-76c89b9f4db5)
 
