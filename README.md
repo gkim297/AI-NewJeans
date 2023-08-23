@@ -15,7 +15,9 @@ Based on 100+ textual corpus of kpop albums published since 2017, AI NewJeans' M
 
 To start program type the following command in terminal:
 ```shell-session
-foo@bar:~$ npm start
+cd path\to\ai-lyrics-generator
+
+npm start
 ```
 
 
