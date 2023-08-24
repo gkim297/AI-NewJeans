@@ -1,6 +1,6 @@
-# AI Bunnies
+# AI NewJeans
 
-Based on 100+ textual corpus of kpop albums published since 2017, AI Bunnies' ML engine first generates its new lyric through RNN & LSTM modelling, then creates a corresponding mp3 audio file with the voice cover of NewJeans' vocals through TTS (Text-to-Speech) generation, and Aubio audio processing & alignment tool.
+Based on 100+ textual corpus of kpop albums published since 2017, AI NewJeans' ML engine first generates its new lyric through RNN & LSTM modelling, then creates a corresponding mp3 audio file with the voice cover of NewJeans' vocals through TTS (Text-to-Speech) generation, and Aubio audio processing & alignment tool.
 
 
 
